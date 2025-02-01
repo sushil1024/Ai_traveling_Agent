@@ -52,6 +52,8 @@ To ensure the proper functioning of the app, add the following environment varia
 NEXT_PUBLIC_API_KEY: Your Gemini API Key.
 
 🙏 Acknowledgements
+
 Thanks to the Gemini API for providing travel details and recommendations.
+
 Thanks to Next.js for being a great framework for building React applications.
 
