@@ -33,9 +33,11 @@ cd Ai_Traveling_Agent
 npm install
 
 3️⃣ Set up environment variables:
+
 Create a .env.local file in the root of the project and add your Gemini API Key:
 
 NEXT_PUBLIC_API_KEY=your-api-key-here
+
 4️⃣ Run the application:
 Run the app in development mode:
 
