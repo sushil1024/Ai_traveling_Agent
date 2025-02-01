@@ -26,7 +26,7 @@ Welcome to the **Ai_traveling_Agent App** built with **Next.js**! This app allow
 To get started with the project locally, follow these steps:
 
 ### 1️⃣ Clone the repository:
-```bash
+
 git clone https://github.com/your-username/travel-planner.git
 cd Ai_Traveling_Agent
 2️⃣ Install dependencies:
