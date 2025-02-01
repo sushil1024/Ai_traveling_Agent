@@ -6,9 +6,7 @@ Demo Here: [Ai_traveling_Agent](https://ai-traveling-agent.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/96b33cd7-c953-4716-a2c0-9e30ab92c670)
 
-This app allows users to plan their trips by selecting countries, states, cities, and the number of days.
-
-The app then generates a customized travel itinerary and restaurant recommendations using the Gemini API. 🌏✈️
+Plan your trips by selecting location details and get a personalized itinerary and restaurant recommendations powered by the Gemini API. 🌏✈️
 ---
 
 ## 🚀 Features
