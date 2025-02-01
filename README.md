@@ -2,15 +2,13 @@
 
 Welcome to the **Ai_traveling_Agent App** built with **Next.js**! 
 
-This app allows users to plan their trips by selecting countries, states, cities, and the number of days.
-
-The app then generates a customized travel itinerary and restaurant recommendations using the Gemini API. 🌏✈️
----
-
 Demo Here: [Ai_traveling_Agent](https://ai-traveling-agent.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/96b33cd7-c953-4716-a2c0-9e30ab92c670)
 
+This app allows users to plan their trips by selecting countries, states, cities, and the number of days.
+
+The app then generates a customized travel itinerary and restaurant recommendations using the Gemini API. 🌏✈️
 ---
 
 ## 🚀 Features
@@ -19,7 +17,6 @@ Demo Here: [Ai_traveling_Agent](https://ai-traveling-agent.vercel.app/)
 - Generate a travel itinerary for your trip 🗺️.
 - Get restaurant, bar, and club recommendations 🍽️🍸💃.
 - Real-time loading spinner to show progress 🔄.
-
 ---
 
 ## 🛠️ Technology Stack
