@@ -49,7 +49,7 @@ NEXT_PUBLIC_API_KEY=your-api-key-here
 4️⃣ Run the application:
 Run the app in development mode:
 
-**npm run dev**
+Start the App: **npm run dev**
 
 This will start the app on http://localhost:3000.
 
