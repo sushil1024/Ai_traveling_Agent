@@ -30,22 +30,15 @@ To get started with the project locally, follow these steps:
 git clone https://github.com/your-username/travel-planner.git
 cd Ai_Traveling_Agent
 2️⃣ Install dependencies:
-bash
-Copy
-Edit
 npm install
 
 3️⃣ Set up environment variables:
 Create a .env.local file in the root of the project and add your Gemini API Key:
-bash
-Copy
-Edit
+
 NEXT_PUBLIC_API_KEY=your-api-key-here
 4️⃣ Run the application:
 Run the app in development mode:
-bash
-Copy
-Edit
+
 npm run dev
 This will start the app on http://localhost:3000.
 
