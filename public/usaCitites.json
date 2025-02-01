@@ -1,0 +1,103 @@
+
+
+  { "": ["Select a country"],
+    "United States": {
+      "Alabama": ["Birmingham", "Montgomery", "Mobile", "Huntsville"],
+      "Alaska": ["Anchorage", "Fairbanks", "Juneau"],
+      "Arizona":  ["Phoenix", "Tucson", "Mesa", "Scottsdale"],
+      "California": ["Los Angeles", "San Francisco", "San Diego", "Sacramento"],
+      "Florida": ["Miami", "Orlando", "Tampa", "Jacksonville"],
+      "Georgia": ["Atlanta", "Savannah", "Augusta"],
+      "Illinois": ["Chicago", "Springfield", "Peoria"],
+      "New York": ["New York City", "Buffalo", "Rochester"]
+    },
+    "Canada": {
+      "Alberta": ["Calgary", "Edmonton", "Red Deer"],
+      "British Columbia": ["Vancouver", "Victoria", "Kelowna"],
+      "Manitoba": ["Winnipeg", "Brandon", "Thompson"],
+      "Newfoundland and Labrador": ["St. John's", "Gander", "Corner Brook"],
+      "Ontario": ["Toronto", "Ottawa", "Hamilton"],
+      "Quebec": ["Montreal", "Quebec City", "Gatineau"]
+    },
+    "Mexico": {
+      "Aguascalientes": ["Aguascalientes City", "Rincón de Romos", "Jesús María"],
+      "Chihuahua": ["Chihuahua City", "Ciudad Juárez", "Delicias"],
+      "Jalisco": ["Guadalajara", "Puerto Vallarta", "Tlaquepaque"],
+      "Mexico City": ["Mexico City", "Iztapalapa", "Coyoacán"],
+      "Nuevo León": ["Monterrey", "San Nicolás", "San Pedro Garza García"]
+    },
+    "United Kingdom": {
+      "England": ["London", "Manchester", "Birmingham", "Leeds"],
+      "Scotland": ["Edinburgh", "Glasgow", "Aberdeen", "Inverness"],
+      "Wales": ["Cardiff", "Swansea", "Newport", "Wrexham"],
+      "Northern Ireland": ["Belfast", "Derry", "Lisburn", "Newtownabbey"]
+    },
+    "France": {
+      "Île-de-France": ["Paris", "Versailles", "Boulogne-Billancourt"],
+      "Provence-Alpes-Côte d'Azur": ["Marseille", "Nice", "Toulon", "Aix-en-Provence"],
+      "Auvergne-Rhône-Alpes": ["Lyon", "Grenoble", "Saint-Étienne", "Clermont-Ferrand"],
+      "Bretagne": ["Rennes", "Brest", "Vannes", "Quimper"]
+    },
+    "Germany": {
+      "Bavaria": ["Munich", "Nuremberg", "Augsburg", "Regensburg"],
+      "North Rhine-Westphalia": ["Cologne", "Düsseldorf", "Dortmund", "Essen"],
+      "Berlin": ["Berlin"],
+      "Hesse": ["Frankfurt", "Wiesbaden", "Darmstadt"]
+    },
+    "Australia": {
+      "New South Wales": ["Sydney", "Newcastle", "Wollongong", "Coffs Harbour"],
+      "Victoria": ["Melbourne", "Geelong", "Ballarat", "Bendigo"],
+      "Queensland": ["Brisbane", "Gold Coast", "Cairns", "Townsville"],
+      "Western Australia": ["Perth", "Bunbury", "Mandurah", "Kalgoorlie"]
+    },
+    "Japan": {
+      "Tokyo": ["Tokyo", "Yokohama", "Saitama", "Chiba"],
+      "Osaka": ["Osaka", "Kobe", "Kyoto", "Sakai"],
+      "Hokkaido": ["Sapporo", "Hakodate", "Asahikawa", "Obihiro"],
+      "Fukuoka": ["Fukuoka City", "Kitakyushu", "Kurume", "Nagasaki"]
+    },
+    "Italy": {
+      "Lazio": ["Rome", "Viterbo", "Frosinone", "Latina"],
+      "Lombardy": ["Milan", "Brescia", "Monza", "Como"],
+      "Tuscany": ["Florence", "Pisa", "Siena", "Livorno"],
+      "Sicily": ["Palermo", "Catania", "Messina", "Syracuse"]
+    },
+    "India": {
+      "Delhi": ["New Delhi", "Gurugram", "Noida", "Faridabad"],
+      "Maharashtra": ["Mumbai", "Pune", "Nagpur", "Nashik"],
+      "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai", "Trichy"],
+      "Karnataka": ["Bengaluru", "Mysuru", "Hubli", "Mangalore"],
+      "West Bengal": ["Kolkata", "Siliguri", "Durgapur", "Howrah"]
+    },
+    "China": {
+      "Beijing": ["Beijing", "Tianjin", "Langfang", "Baoding"],
+      "Shanghai": ["Shanghai", "Suzhou", "Nanjing", "Hangzhou"],
+      "Guangdong": ["Guangzhou", "Shenzhen", "Dongguan", "Zhuhai"],
+      "Sichuan": ["Chengdu", "Mianyang", "Deyang", "Nanchong"]
+    },
+    "South Korea": {
+      "Seoul": ["Seoul", "Incheon", "Suwon", "Goyang"],
+      "Busan": ["Busan", "Ulsan", "Changwon", "Yangsan"],
+      "Gyeonggi": ["Goyang", "Seongnam", "Suwon", "Ansan"],
+      "Jeju": ["Jeju City", "Seogwipo", "Jeju Island"]
+    },
+    "Singapore": {
+      "Central Region": ["Singapore City", "Marina Bay", "Orchard Road"],
+      "East Region": ["Changi", "Tampines", "Bedok"],
+      "West Region": ["Jurong East", "Bukit Batok", "Clementi"],
+      "North Region": ["Woodlands", "Sembawang", "Yishun"]
+    },
+    "Thailand": {
+      "Bangkok": ["Bangkok", "Nonthaburi", "Samut Prakan", "Min Buri"],
+      "Chiang Mai": ["Chiang Mai", "Hang Dong", "San Sai", "Doi Saket"],
+      "Phuket": ["Phuket City", "Patong", "Karon", "Kata Beach"],
+      "Chonburi": ["Pattaya", "Chonburi City", "Si Racha", "Laem Chabang"]
+    },
+    "Indonesia": {
+      "Bali": ["Denpasar", "Kuta", "Ubud", "Sanur"],
+      "Jakarta": ["Jakarta", "Bekasi", "Tangerang", "Depok"],
+      "West Java": ["Bandung", "Bogor", "Cimahi", "Cirebon"],
+      "East Java": ["Surabaya", "Malang", "Madiun", "Sidoarjo"]
+    }
+  }
+  
