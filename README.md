@@ -27,7 +27,7 @@ To get started with the project locally, follow these steps:
 
 ### 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/travel-planner.git
+git clone https://github.com/(https://github.com/Siddhesh9000/Ai_traveling_Agent.git)
 cd Ai_Traveling_Agent
 2️⃣ Install dependencies:
 npm install
